@@ -1,5 +1,5 @@
 let raceNumber = Math.floor(Math.random() * 1000); // creates random race number
-const earlyRegistrant = true; // will define is registered early or late
+const earlyRegistrant = true; // will define if registered early or late
 const runnerAge = 18;
 
 if (runnerAge > 18 && earlyRegistrant === true) {
